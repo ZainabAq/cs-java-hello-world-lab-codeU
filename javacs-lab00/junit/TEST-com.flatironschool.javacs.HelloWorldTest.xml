@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="pletcher.local" name="com.flatironschool.javacs.HelloWorldTest" skipped="0" tests="1" time="0.289" timestamp="2016-03-15T15:44:25">
+<testsuite errors="0" failures="0" hostname="Zainabs-MacBook-Pro.local" name="com.flatironschool.javacs.HelloWorldTest" skipped="0" tests="1" time="0.566" timestamp="2016-03-26T16:18:18">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="env.XPC_SERVICE_NAME" value="0" />
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
-    <property name="env.COLORFGBG" value="12;8" />
+    <property name="env._system_arch" value="x86_64" />
+    <property name="env.GEM_HOME" value="/Users/syedazainabrizvi/.rvm/gems/ruby-2.3.0" />
     <property name="os.name" value="Mac OS X" />
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/classes" />
-    <property name="env.TMPDIR" value="/var/folders/8d/vpdn7q2d2pq61rx2bnyk5bl00000gn/T/" />
-    <property name="env.PWD" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
+    <property name="env.TMPDIR" value="/var/folders/4p/qgyy9gqn0xl31bw73bn25js40000gn/T/" />
+    <property name="env.PWD" value="/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU" />
     <property name="env.LANG" value="en_US.UTF-8" />
-    <property name="env.LESS" value="-R" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
     <property name="ant.home" value="/usr/local/Cellar/ant/1.9.6/libexec" />
     <property name="java.runtime.version" value="1.8.0_74-b02" />
-    <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.bSdYejpPFn/Render" />
-    <property name="user.name" value="pletcher" />
-    <property name="env.USER" value="pletcher" />
-    <property name="env.SHELL" value="/bin/zsh" />
+    <property name="env.MY_RUBY_HOME" value="/Users/syedazainabrizvi/.rvm/rubies/ruby-2.3.0" />
+    <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.rDDz1040lL/Render" />
+    <property name="env.rvm_version" value="1.26.11 (latest)" />
+    <property name="user.name" value="syedazainabrizvi" />
+    <property name="env.USER" value="syedazainabrizvi" />
+    <property name="env.SHELL" value="/bin/bash" />
     <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0" />
-    <property name="env.PATH" value="/Users/pletcher/.rbenv/versions/2.3.0/bin:/usr/local/Cellar/rbenv/1.0.0/libexec:/Users/pletcher/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" />
+    <property name="env._system_type" value="Darwin" />
+    <property name="env.PATH" value="/Users/syedazainabrizvi/.rvm/gems/ruby-2.3.0/bin:/Users/syedazainabrizvi/.rvm/gems/ruby-2.3.0@global/bin:/Users/syedazainabrizvi/.rvm/rubies/ruby-2.3.0/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/syedazainabrizvi/.rvm/bin" />
     <property name="user.language" value="en" />
+    <property name="env.rvm_prefix" value="/Users/syedazainabrizvi" />
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib" />
     <property name="ant.project.default-target" value="build" />
     <property name="env.XPC_FLAGS" value="0x0" />
     <property name="ant.project.name" value="JavaCS" />
-    <property name="env.LC_CTYPE" value="en_US.UTF-8" />
+    <property name="env.rvm_path" value="/Users/syedazainabrizvi/.rvm" />
+    <property name="env.RUBY_VERSION" value="ruby-2.3.0" />
     <property name="java.version" value="1.8.0_74" />
     <property name="user.timezone" value="" />
     <property name="sun.arch.data.model" value="64" />
+    <property name="env._system_name" value="OSX" />
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/endorsed" />
     <property name="sun.cpu.isalist" value="" />
     <property name="sun.jnu.encoding" value="UTF-8" />
-    <property name="env.ITERM_SESSION_ID" value="w0t2p1:1EE13A33-D132-4FEA-A0DE-F53739370DC3" />
+    <property name="env.rvm_bin_path" value="/Users/syedazainabrizvi/.rvm/bin" />
     <property name="file.encoding.pkg" value="sun.io" />
     <property name="env.SHLVL" value="3" />
     <property name="file.separator" value="/" />
+    <property name="env._system_version" value="10.11" />
     <property name="java.specification.name" value="Java Platform API Specification" />
     <property name="java.class.version" value="52.0" />
     <property name="user.country" value="US" />
-    <property name="ant.file.JavaCS" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/build.xml" />
+    <property name="ant.file.JavaCS" value="/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/build.xml" />
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre" />
-    <property name="env.ZSH" value="/Users/pletcher/.oh-my-zsh" />
     <property name="java.vm.info" value="mixed mode" />
-    <property name="env.LOGNAME" value="pletcher" />
-    <property name="ant.file" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/build.xml" />
-    <property name="os.version" value="10.11.3" />
+    <property name="env.LOGNAME" value="syedazainabrizvi" />
+    <property name="ant.file" value="/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/build.xml" />
+    <property name="os.version" value="10.11.2" />
+    <property name="env.TERM_PROGRAM_VERSION" value="361.1" />
     <property name="path.separator" value=":" />
     <property name="java.vm.version" value="25.74-b02" />
-    <property name="env.RBENV_ROOT" value="/Users/pletcher/.rbenv" />
     <property name="ant.library.dir" value="/usr/local/Cellar/ant/1.9.6/libexec/lib" />
     <property name="junit.output.dir" value="junit" />
+    <property name="env.IRBRC" value="/Users/syedazainabrizvi/.rvm/rubies/ruby-2.3.0/.irbrc" />
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
     <property name="env.TERM" value="xterm-256color" />
     <property name="sun.io.unicode.encoding" value="UnicodeBig" />
-    <property name="env.RBENV_VERSION" value="2.3.0" />
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
-    <property name="env.LSCOLORS" value="Gxfxcxdxbxegedabagacad" />
-    <property name="env.JAVA_MAIN_CLASS_4865" value="org.apache.tools.ant.launch.Launcher" />
-    <property name="user.home" value="/Users/pletcher" />
+    <property name="env.GEM_PATH" value="/Users/syedazainabrizvi/.rvm/gems/ruby-2.3.0:/Users/syedazainabrizvi/.rvm/gems/ruby-2.3.0@global" />
+    <property name="user.home" value="/Users/syedazainabrizvi" />
     <property name="target" value="1.6" />
-    <property name="env.RBENV_HOOK_PATH" value="/Users/pletcher/.rbenv/rbenv.d:/usr/local/Cellar/rbenv/1.0.0/rbenv.d:/usr/local/etc/rbenv.d:/etc/rbenv.d:/usr/lib/rbenv/hooks" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
-    <property name="env.TERM_PROGRAM" value="iTerm.app" />
-    <property name="env.PAGER" value="less" />
-    <property name="java.library.path" value="/Users/pletcher/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="env.TERM_PROGRAM" value="Apple_Terminal" />
     <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.library.path" value="/Users/syedazainabrizvi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="gopherProxySet" value="false" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
-    <property name="java.class.path" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/bin:/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/lib/junit-4.12.jar:/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/lib/hamcrest-core-1.3.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit4.jar" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.HelloWorldTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junit/TEST-com.flatironschool.javacs.HelloWorldTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junitvmwatcher8138220387164148789.properties propsfile=/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junit1756973550264587017.properties" />
+    <property name="java.class.path" value="/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/bin:/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/lib/junit-4.12.jar:/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/lib/hamcrest-core-1.3.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.HelloWorldTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/junit/TEST-com.flatironschool.javacs.HelloWorldTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/junitvmwatcher8039671206593131873.properties propsfile=/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/junit6525495797930833763.properties" />
+    <property name="env.TERM_SESSION_ID" value="76AA1D54-C617-47AD-8598-F03DBE521EB1" />
+    <property name="env.JAVA_MAIN_CLASS_52875" value="org.apache.tools.ant.launch.Launcher" />
     <property name="ant.file.type.JavaCS" value="file" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="ant.file.type" value="file" />
-    <property name="env.RBENV_SHELL" value="zsh" />
     <property name="java.vm.specification.version" value="1.8" />
     <property name="sun.os.patch.level" value="unknown" />
     <property name="sun.cpu.endian" value="little" />
-    <property name="env.HOME" value="/Users/pletcher" />
+    <property name="env.HOME" value="/Users/syedazainabrizvi" />
     <property name="debuglevel" value="source,lines,vars" />
-    <property name="java.io.tmpdir" value="/var/folders/8d/vpdn7q2d2pq61rx2bnyk5bl00000gn/T/" />
+    <property name="java.io.tmpdir" value="/var/folders/4p/qgyy9gqn0xl31bw73bn25js40000gn/T/" />
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
-    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.hPZ3uVKcOA/Listeners" />
-    <property name="env.RUBYLIB" value="/usr/local/Cellar/rbenv/1.0.0/rbenv.d/exec/gem-rehash:" />
+    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.FDMBfnj6Rf/Listeners" />
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
     <property name="os.arch" value="x86_64" />
-    <property name="java.ext.dirs" value="/Users/pletcher/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
-    <property name="user.dir" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
+    <property name="java.ext.dirs" value="/Users/syedazainabrizvi/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="user.dir" value="/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU" />
     <property name="line.separator" value="&#xa;" />
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
-    <property name="basedir" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00" />
-    <property name="env.ITERM_PROFILE" value="Default" />
+    <property name="basedir" value="/Users/syedazainabrizvi/Documents/Computer Science/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00" />
     <property name="ant.java.version" value="1.8" />
     <property name="ant.core.lib" value="/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar" />
     <property name="source" value="1.6" />
-    <property name="env.RBENV_DIR" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
     <property name="file.encoding" value="UTF-8" />
-    <property name="env.ZSH_THEME" value="jbergantine" />
     <property name="java.specification.version" value="1.8" />
     <property name="ant.project.invoked-targets" value="test" />
   </properties>
-  <testcase classname="com.flatironschool.javacs.HelloWorldTest" name="testGetVersion" time="0.002" />
+  <testcase classname="com.flatironschool.javacs.HelloWorldTest" name="testGetVersion" time="0.003" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
